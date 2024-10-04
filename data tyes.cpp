@@ -29,4 +29,13 @@ int main() {
 
     return 0;
 }
+/*
+Size of integer is: 4 bytes
+Size of float is: 4 bytes
+Size of double is: 8 bytes
+Size of character is: 1 bytes
+Size of string object is: 8 bytes
+Size of boolean is: 1 bytes
+Size of constant integer is: 4 bytes
+*/
 
